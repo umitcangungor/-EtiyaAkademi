@@ -76,3 +76,5 @@ def kredileriListele():
     for kredi in krediler:
       print("<option>"+kredi+"<option>")
 kredileriListele()
+
+s
